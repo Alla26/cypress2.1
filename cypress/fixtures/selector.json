@@ -1,0 +1,20 @@
+{
+    "title": ".page-header__title",
+    "weekday": ".page-nav",
+    "poster": ".movie__info",
+    "login": "[name='email']",
+    "password": "[name='password']",
+    "loginButton": "[class='login__button']",
+    "signEntering": "Администраторррская",
+    "loginError": "Ошибка авторизации!",
+    "saleOpening": "#start-sales",
+    "nameHall": "data.newHall",
+    "chooseTime": "a.page-nav__day:nth-of-type(5)",
+    "chooseFilm": ".movie",
+    "time": "14:00",
+    "timeConfirmation": "Начало сеанса: 14:00",
+    "chairSelection": ".buying-scheme__wrapper > :nth-child(5) > :nth-child(4)",
+    "pushButton": ".acceptin-button",
+    "bookingConfirmation": "Покажите QR-код нашему контроллеру для подтверждения бронирования."
+
+  }
